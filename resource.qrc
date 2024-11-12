@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icon/per1.png</file>
+        <file>img/icon/per2.png</file>
+        <file>img/icon/per7.png</file>
+        <file>img/icon/red.png</file>
+        <file>img/icon/per0.png</file>
+        <file>img/icon/per3.png</file>
+        <file>img/icon/per4.png</file>
+        <file>img/icon/per5.png</file>
+        <file>img/icon/per6.png</file>
+        <file>img/icon/per8.png</file>
+        <file>img/icon/per9.png</file>
+        <file>img/icon/per10.png</file>
+        <file>img/icon/search.png</file>
+        <file>img/headimg/my.png</file>
+        <file>img/background/login.jpg</file>
+        <file>img/icon/close.png</file>
+        <file>img/icon/min.png</file>
+        <file>img/icon/min_press.png</file>
+        <file>img/icon/close_press.png</file>
+        <file>img/icon/hide.png</file>
+        <file>img/icon/open.png</file>
+        <file>img/icon/data.png</file>
+        <file>img/icon/biaoqing.png</file>
+    </qresource>
+</RCC>
